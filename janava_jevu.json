@@ -1,1 +1,29 @@
-
+{
+  "janvajevuList" : [
+    {
+      "categoryName" : "material 1",
+      "category_image" : "material_image_1",
+      "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+    },
+    {
+      "categoryName" : "material 1",
+      "category_image" : "material_image_1",
+      "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+    },
+    {
+      "categoryName" : "material 1",
+      "category_image" : "material_image_1",
+      "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+    },
+    {
+      "categoryName" : "material 1",
+      "category_image" : "material_image_1",
+      "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+    },
+    {
+      "categoryName" : "material 1",
+      "category_image" : "material_image_1",
+      "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+    }
+  ]
+}
